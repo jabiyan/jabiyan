@@ -12,7 +12,7 @@ Visualization: Matplotlib, Seaborn, Tableau
 Tools: Jupyter Notebook, Git, VS Code
 Statistics: Hypothesis Testing, ANOVA, Econometrics
 
-# 🧠 Projects That Represent My Work
+### 🧠 Projects That Represent My Work
 
 📊 Customer Churn Prediction – Built ML models to predict customer retention using real-world data
 
@@ -24,7 +24,7 @@ Statistics: Hypothesis Testing, ANOVA, Econometrics
 
 🤖 Introductory NLP & ML Models – Text classification and basic NLP pipelines
 
-# 💬 Ask Me About
+### 💬 Ask Me About
 
 Data Science and Machine Learning workflows
 
