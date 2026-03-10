@@ -42,4 +42,4 @@ Getting started with freelance data science on Upwork
 
 💼 Upwork
 
-📧 Email: (add if you want)
+📧 Email: (mustajabh015@gmail.com
