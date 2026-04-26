@@ -65,6 +65,7 @@ Segmented customers into 5 distinct groups based on income and spending behavior
 
 ### 🔧 [Worker Job Role Prediction — Motor Company](https://github.com/jabiyan/Job-prediction-project-_7)
 Built a classification model to predict worker job roles from employee profile data, helping HR teams automate role classification and reduce manual effort.
+Here is the live deployed  model link (https://employee-churn-predictor-8xcm3z2xpp5vmndc7snzup.streamlit.app/)
 > `Python` `Classification` `EDA` `Scikit-learn` `Pandas`
 
 ---
