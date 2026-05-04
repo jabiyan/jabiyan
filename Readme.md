@@ -64,6 +64,7 @@ I'm a Data Scientist and ML Engineer with a background in **economics and econom
 | 👥 Employee Churn Predictor | Predicts whether an employee will leave or stay | [▶ Open App](https://employee-churn-predictor-8xcm3z2xpp5vmndc7snzup.streamlit.app/) |
 | 📈 Sales Forecasting Dashboard | Forecasts 3–24 months of sales using Prophet | [▶ Open App](https://sales-forecasting-dashboard-f5kcd2ntgeg2y4d6pi5zgs.streamlit.app/) |
 | 🎬 Movie Recommendation System | Recommends movies using Collaborative & Content-Based Filtering | [▶ Open App](https://recommendation-system-m2rzjsfzmfmhy3dwfxabpt.streamlit.app/) |
+| 🤖 Customer Support Chatbot | RAG-powered e-commerce support bot using Gemini + LangChain | [▶ Open App](https://customer-support-chatbot-nnwappm2k7zt6sxibwivukk.streamlit.app/) |
 
 ---
 
@@ -78,6 +79,12 @@ Predicts whether an employee is likely to leave using Random Forest. Features sa
 ### 📈 [Sales Forecasting Dashboard](https://github.com/jabiyan/sales-forecasting-dashboard)
 Forecasts retail sales 3–24 months ahead by category using Facebook Prophet. Interactive KPI cards, trend charts, seasonality analysis, and a forecast data table.
 > `Python` `Prophet` `Plotly` `Streamlit` · **[Live Demo](https://sales-forecasting-dashboard-f5kcd2ntgeg2y4d6pi5zgs.streamlit.app/)**
+
+---
+
+### 🤖 [Customer Support Chatbot (RAG)](https://github.com/jabiyan/customer-support-chatbot)
+AI-powered e-commerce support chatbot built with Retrieval Augmented Generation. Uses LangChain LCEL + Google Gemini + ChromaDB to deliver accurate, hallucination-free answers grounded in real knowledge base data.
+> `Python` `LangChain` `RAG` `Gemini` `ChromaDB` `Streamlit` · **[Live Demo](https://customer-support-chatbot-nnwappm2k7zt6sxibwivukk.streamlit.app/)**
 
 ---
 
@@ -103,6 +110,7 @@ Classifies worker job roles from employee profile data using ML — helping HR t
 
 | Need | What I Deliver |
 |------|---------------|
+| 🤖 Build an AI support chatbot | RAG pipeline with custom knowledge base |
 | 📉 Predict customer churn | ML model + actionable retention insights |
 | 👥 Understand your customers | Segmentation analysis with marketing strategy |
 | 📦 Forecast demand or sales | Time-series models with trend & seasonality |
