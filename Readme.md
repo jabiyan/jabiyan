@@ -34,6 +34,7 @@ I'm a Data Scientist and ML Engineer with a background in **economics and econom
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-4479A1?style=flat-square&logo=R&logoColor=white)
+
 **Data Science & ML**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
